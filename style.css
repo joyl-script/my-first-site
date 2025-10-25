@@ -18,9 +18,8 @@ font-family: "Inter", sans-serif;
 font-weight: 500;
 font-size: 11px;
 line-height: 1.5;
-
-
 text-decoration: none;
+color:  rgba(77, 77, 77, 1);
 }
 
 ul {
